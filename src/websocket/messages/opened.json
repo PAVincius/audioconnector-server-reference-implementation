@@ -1,0 +1,15 @@
+{
+  "version": "2",
+  "type": "opened",
+  "parameters": {
+    "startPaused": false,
+    "media": [
+      {
+        "type": "audio",
+        "format": "PCMU",
+        "channels": ["external"],
+        "rate": 8000
+      }
+    ]
+  }
+}

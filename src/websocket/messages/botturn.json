@@ -1,0 +1,16 @@
+{
+  "version": "2",
+  "type": "event",
+  "parameters": {
+    "entities": [
+      {
+        "type": "bot_turn_response",
+        "data": {
+            "disposition": "match",
+            "text": "Thank you for calling, Goodbye.",
+            "confidence": 0.5
+        }
+      }
+    ]
+  }
+}
